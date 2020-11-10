@@ -1,0 +1,13 @@
+Equilibration (NVT) of GFP homology models
+ &cntrl
+  imin=0, ntx=5, irest=1	! no minimization, read coordinates & velocities
+  nstlim=2500000, dt=0.002	! 2 500 000 x 0.002 ps = 5 000 ps = 5ns
+  ntf=2, ntc=2			! Constrain hydrogen bond lengths
+  tempi=300.0, temp0=300.0	! T=300 K
+  ntpr=500, ntwx=500		! output E and coordinates every 500 steps
+  cut=9.0			! cutoff of non-bonded
+  ntb=2, ntp=1			! constant pressure w. isotropic position scaling
+  ntt=3				! Langevin temperature scaling
+  gamma_ln=2.0			! collision freq, shoulgive temp control betw 2-5
+  ig=-1				! default random seed (based on date & time)
+ /

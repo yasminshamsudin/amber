@@ -1,0 +1,17 @@
+Heat
+ &cntrl
+  imin=0, ntx=1, irest=0	! no minimization, read coordinates
+  nstlim=125000, dt=0.002	! 125 000 x 0.002 ps = 250 ps
+  ntf=2, ntc=2			! constrain hydrogen bond lengths
+  tempi=0.0, temp0=300.0	! start at T=0 and go to T=300
+  ntpr=500, ntwx=500		! output E and coordinates every 500 steps
+  cut=9.0			! cutoff non-bonded (rec. 8A)
+  ntb=1, ntp=0			! 
+  ntt=3				! Langevin temperature scaling
+  gamma_ln=2.0			! collision freq, should give temp control btw 2-5
+  nmropt=1			! 
+  ig=-1				! default random seed (based on date & time)
+ /
+&wt type='TEMP0', istep1=0, istep2=100000, value1=0.0, value2=300.0 /
+&wt type='TEMP0', istep1=100001, istep2=125000, value1=300.0, value2=300.0 /
+&wt type='END' /
