@@ -1,0 +1,10 @@
+source leaprc.protein.ff19SB
+source leaprc.gaff2
+source leaprc.water.spce
+loadAmberPrep gys.in
+loadAmberParams frcmod.gys
+x = loadPDB gfp.pdb
+solvateOct x SPCBOX 14.0
+addIons x Na+ 5 
+saveAmberParm x gfp.parm7 gfp.rst7
+quit
