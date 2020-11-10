@@ -1,0 +1,457 @@
+reduce: version 3.3 06/02/2016, Copyright 1997-2016, J. Michael Word
+Processing file: --standard input--
+Database of HETATM connections: "/home/yasmin/amber20//dat/reduce_wwPDB_het_dict.txt"
+WARNING: atom HB11 from GYS will be treated as hydrogen
+WARNING: atom HB12 from GYS will be treated as hydrogen
+WARNING: atom HA31 from GYS will be treated as hydrogen
+WARNING: atom HA32 from GYS will be treated as hydrogen
+VDW dot density = 16/A^2
+Orientation penalty scale = 9999 (999900%)
+Eliminate contacts within 3 bonds.
+Ignore atoms with |occupancy| <= 0.01 during adjustments.
+Waters ignored if B-Factor >= 40 or |occupancy| < 0.66
+Aromatic rings in amino acids accept hydrogen bonds.
+Building His ring NH Hydrogens.
+Flipping Asn, Gln and His groups.
+For each flip state, bumps where gap is more than 0.4A are indicated with '!'.
+Building or keeping OH & SH Hydrogens.
+Rotating existing OH & SH Hydrogens
+Rotating NH3 Hydrogens.
+Not processing Met methyls.
+WARNING: atom HAHA from HID will be treated as hydrogen
+WARNING: atom HAHA from HID will be treated as hydrogen
+WARNING: atom HAHA from HID will be treated as hydrogen
+WARNING: atom HNAI from HID will be treated as hydrogen
+WARNING: atom HNAI from HID will be treated as hydrogen
+WARNING: atom HNAI from HID will be treated as hydrogen
+WARNING: atom HAHA from HID will be treated as hydrogen
+WARNING: atom HAHA from HID will be treated as hydrogen
+WARNING: atom HAHA from HID will be treated as hydrogen
+WARNING: atom HAHA from HID will be treated as hydrogen
+WARNING: atom HAHA from HID will be treated as hydrogen
+WARNING: atom HAHA from HID will be treated as hydrogen
+WARNING: atom HNAI from HID will be treated as hydrogen
+WARNING: atom HNAI from HID will be treated as hydrogen
+WARNING: atom HNAI from HID will be treated as hydrogen
+WARNING: atom HAHA from HID will be treated as hydrogen
+WARNING: atom HAHA from HID will be treated as hydrogen
+WARNING: atom HAHA from HID will be treated as hydrogen
+WARNING: atom HAHA from HID will be treated as hydrogen
+WARNING: atom HAHA from HID will be treated as hydrogen
+WARNING: atom HAHA from HID will be treated as hydrogen
+WARNING: atom HNAI from HID will be treated as hydrogen
+WARNING: atom HNAI from HID will be treated as hydrogen
+WARNING: atom HNAI from HID will be treated as hydrogen
+WARNING: atom HAHA from HID will be treated as hydrogen
+WARNING: atom HAHA from HID will be treated as hydrogen
+WARNING: atom HAHA from HID will be treated as hydrogen
+WARNING: atom HAHA from HID will be treated as hydrogen
+WARNING: atom HAHA from HID will be treated as hydrogen
+WARNING: atom HAHA from HID will be treated as hydrogen
+WARNING: atom HNAI from HID will be treated as hydrogen
+WARNING: atom HNAI from HID will be treated as hydrogen
+WARNING: atom HNAI from HID will be treated as hydrogen
+WARNING: atom HAHA from HID will be treated as hydrogen
+WARNING: atom HAHA from HID will be treated as hydrogen
+WARNING: atom HAHA from HID will be treated as hydrogen
+WARNING: atom HAHA from HID will be treated as hydrogen
+WARNING: atom HAHA from HID will be treated as hydrogen
+WARNING: atom HAHA from HID will be treated as hydrogen
+WARNING: atom HNAI from HID will be treated as hydrogen
+WARNING: atom HNAI from HID will be treated as hydrogen
+WARNING: atom HNAI from HID will be treated as hydrogen
+WARNING: atom HAHA from HID will be treated as hydrogen
+WARNING: atom HAHA from HID will be treated as hydrogen
+WARNING: atom HAHA from HID will be treated as hydrogen
+WARNING: atom H101 from GLH will be treated as hydrogen
+WARNING: atom H101 from GLH will be treated as hydrogen
+WARNING: atom H102 from GLH will be treated as hydrogen
+WARNING: atom H102 from GLH will be treated as hydrogen
+WARNING: atom H101 from GLH will be treated as hydrogen
+WARNING: atom H102 from GLH will be treated as hydrogen
+WARNING: atom H111 from GLH will be treated as hydrogen
+WARNING: atom H111 from GLH will be treated as hydrogen
+WARNING: atom H112 from GLH will be treated as hydrogen
+WARNING: atom H112 from GLH will be treated as hydrogen
+WARNING: atom H111 from GLH will be treated as hydrogen
+WARNING: atom H112 from GLH will be treated as hydrogen
+WARNING: atom H121 from GLH will be treated as hydrogen
+WARNING: atom H121 from GLH will be treated as hydrogen
+WARNING: atom H122 from GLH will be treated as hydrogen
+WARNING: atom H122 from GLH will be treated as hydrogen
+WARNING: atom H121 from GLH will be treated as hydrogen
+WARNING: atom H122 from GLH will be treated as hydrogen
+WARNING: atom H131 from GLH will be treated as hydrogen
+WARNING: atom H131 from GLH will be treated as hydrogen
+WARNING: atom H132 from GLH will be treated as hydrogen
+WARNING: atom H132 from GLH will be treated as hydrogen
+WARNING: atom H131 from GLH will be treated as hydrogen
+WARNING: atom H132 from GLH will be treated as hydrogen
+WARNING: atom HC31 from GLH will be treated as hydrogen
+WARNING: atom HC31 from GLH will be treated as hydrogen
+WARNING: atom HC32 from GLH will be treated as hydrogen
+WARNING: atom HC32 from GLH will be treated as hydrogen
+WARNING: atom HC31 from GLH will be treated as hydrogen
+WARNING: atom HC32 from GLH will be treated as hydrogen
+WARNING: atom HC41 from GLH will be treated as hydrogen
+WARNING: atom HC41 from GLH will be treated as hydrogen
+WARNING: atom HC42 from GLH will be treated as hydrogen
+WARNING: atom HC42 from GLH will be treated as hydrogen
+WARNING: atom HC41 from GLH will be treated as hydrogen
+WARNING: atom HC42 from GLH will be treated as hydrogen
+WARNING: atom HC51 from GLH will be treated as hydrogen
+WARNING: atom HC51 from GLH will be treated as hydrogen
+WARNING: atom HC52 from GLH will be treated as hydrogen
+WARNING: atom HC52 from GLH will be treated as hydrogen
+WARNING: atom HC51 from GLH will be treated as hydrogen
+WARNING: atom HC52 from GLH will be treated as hydrogen
+WARNING: atom HC61 from GLH will be treated as hydrogen
+WARNING: atom HC61 from GLH will be treated as hydrogen
+WARNING: atom HC62 from GLH will be treated as hydrogen
+WARNING: atom HC62 from GLH will be treated as hydrogen
+WARNING: atom HC61 from GLH will be treated as hydrogen
+WARNING: atom HC62 from GLH will be treated as hydrogen
+WARNING: atom HC71 from GLH will be treated as hydrogen
+WARNING: atom HC71 from GLH will be treated as hydrogen
+WARNING: atom HC72 from GLH will be treated as hydrogen
+WARNING: atom HC72 from GLH will be treated as hydrogen
+WARNING: atom HC71 from GLH will be treated as hydrogen
+WARNING: atom HC72 from GLH will be treated as hydrogen
+WARNING: atom HC91 from GLH will be treated as hydrogen
+WARNING: atom HC91 from GLH will be treated as hydrogen
+WARNING: atom HC92 from GLH will be treated as hydrogen
+WARNING: atom HC92 from GLH will be treated as hydrogen
+WARNING: atom HC91 from GLH will be treated as hydrogen
+WARNING: atom HC92 from GLH will be treated as hydrogen
+WARNING: atom HC92 from GLH will be treated as hydrogen
+WARNING: atom HC92 from GLH will be treated as hydrogen
+WARNING: atom HC91 from GLH will be treated as hydrogen
+WARNING: atom HC91 from GLH will be treated as hydrogen
+WARNING: atom HC92 from GLH will be treated as hydrogen
+WARNING: atom HC91 from GLH will be treated as hydrogen
+WARNING: atom HC72 from GLH will be treated as hydrogen
+WARNING: atom HC72 from GLH will be treated as hydrogen
+WARNING: atom HC71 from GLH will be treated as hydrogen
+WARNING: atom HC71 from GLH will be treated as hydrogen
+WARNING: atom HC72 from GLH will be treated as hydrogen
+WARNING: atom HC71 from GLH will be treated as hydrogen
+WARNING: atom HC62 from GLH will be treated as hydrogen
+WARNING: atom HC62 from GLH will be treated as hydrogen
+WARNING: atom HC61 from GLH will be treated as hydrogen
+WARNING: atom HC61 from GLH will be treated as hydrogen
+WARNING: atom HC62 from GLH will be treated as hydrogen
+WARNING: atom HC61 from GLH will be treated as hydrogen
+WARNING: atom HC52 from GLH will be treated as hydrogen
+WARNING: atom HC52 from GLH will be treated as hydrogen
+WARNING: atom HC51 from GLH will be treated as hydrogen
+WARNING: atom HC51 from GLH will be treated as hydrogen
+WARNING: atom HC52 from GLH will be treated as hydrogen
+WARNING: atom HC51 from GLH will be treated as hydrogen
+WARNING: atom HC42 from GLH will be treated as hydrogen
+WARNING: atom HC42 from GLH will be treated as hydrogen
+WARNING: atom HC41 from GLH will be treated as hydrogen
+WARNING: atom HC41 from GLH will be treated as hydrogen
+WARNING: atom HC42 from GLH will be treated as hydrogen
+WARNING: atom HC41 from GLH will be treated as hydrogen
+WARNING: atom HC32 from GLH will be treated as hydrogen
+WARNING: atom HC32 from GLH will be treated as hydrogen
+WARNING: atom HC31 from GLH will be treated as hydrogen
+WARNING: atom HC31 from GLH will be treated as hydrogen
+WARNING: atom HC32 from GLH will be treated as hydrogen
+WARNING: atom HC31 from GLH will be treated as hydrogen
+WARNING: atom H132 from GLH will be treated as hydrogen
+WARNING: atom H132 from GLH will be treated as hydrogen
+WARNING: atom H131 from GLH will be treated as hydrogen
+WARNING: atom H131 from GLH will be treated as hydrogen
+WARNING: atom H132 from GLH will be treated as hydrogen
+WARNING: atom H131 from GLH will be treated as hydrogen
+WARNING: atom H122 from GLH will be treated as hydrogen
+WARNING: atom H122 from GLH will be treated as hydrogen
+WARNING: atom H121 from GLH will be treated as hydrogen
+WARNING: atom H121 from GLH will be treated as hydrogen
+WARNING: atom H122 from GLH will be treated as hydrogen
+WARNING: atom H121 from GLH will be treated as hydrogen
+WARNING: atom H112 from GLH will be treated as hydrogen
+WARNING: atom H112 from GLH will be treated as hydrogen
+WARNING: atom H111 from GLH will be treated as hydrogen
+WARNING: atom H111 from GLH will be treated as hydrogen
+WARNING: atom H112 from GLH will be treated as hydrogen
+WARNING: atom H111 from GLH will be treated as hydrogen
+WARNING: atom H102 from GLH will be treated as hydrogen
+WARNING: atom H102 from GLH will be treated as hydrogen
+WARNING: atom H101 from GLH will be treated as hydrogen
+WARNING: atom H101 from GLH will be treated as hydrogen
+WARNING: atom H102 from GLH will be treated as hydrogen
+WARNING: atom H101 from GLH will be treated as hydrogen
+SKIPPED H( B  41 GLH H2  ): B  41 GLH N    bonds- B  40 HID C    (H bumps)
+SKIPPED H( B  41 GLH H   ): B  41 GLH N    bonds- B  40 HID C    (H bumps)
+WARNING: atom HAHA from HID will be treated as hydrogen
+WARNING: atom HAHA from HID will be treated as hydrogen
+WARNING: atom HAHA from HID will be treated as hydrogen
+WARNING: atom HNAI from HID will be treated as hydrogen
+WARNING: atom HNAI from HID will be treated as hydrogen
+WARNING: atom HNAI from HID will be treated as hydrogen
+WARNING: atom HAHA from HID will be treated as hydrogen
+WARNING: atom HAHA from HID will be treated as hydrogen
+WARNING: atom HAHA from HID will be treated as hydrogen
+WARNING: atom HAHA from HID will be treated as hydrogen
+WARNING: atom HAHA from HID will be treated as hydrogen
+WARNING: atom HAHA from HID will be treated as hydrogen
+WARNING: atom HNAI from HID will be treated as hydrogen
+WARNING: atom HNAI from HID will be treated as hydrogen
+WARNING: atom HNAI from HID will be treated as hydrogen
+WARNING: atom HAHA from HID will be treated as hydrogen
+WARNING: atom HAHA from HID will be treated as hydrogen
+WARNING: atom HAHA from HID will be treated as hydrogen
+WARNING: atom HA31 from GYS will be treated as hydrogen
+WARNING: atom HA31 from GYS will be treated as hydrogen
+WARNING: atom HA32 from GYS will be treated as hydrogen
+WARNING: atom HA32 from GYS will be treated as hydrogen
+WARNING: atom HA31 from GYS will be treated as hydrogen
+WARNING: atom HA32 from GYS will be treated as hydrogen
+WARNING: atom HB11 from GYS will be treated as hydrogen
+WARNING: atom HB11 from GYS will be treated as hydrogen
+WARNING: atom HB12 from GYS will be treated as hydrogen
+WARNING: atom HB12 from GYS will be treated as hydrogen
+WARNING: atom HB11 from GYS will be treated as hydrogen
+WARNING: atom HB12 from GYS will be treated as hydrogen
+WARNING: atom HB12 from GYS will be treated as hydrogen
+WARNING: atom HB12 from GYS will be treated as hydrogen
+WARNING: atom HB11 from GYS will be treated as hydrogen
+WARNING: atom HB11 from GYS will be treated as hydrogen
+WARNING: atom HB12 from GYS will be treated as hydrogen
+WARNING: atom HB11 from GYS will be treated as hydrogen
+WARNING: atom HA32 from GYS will be treated as hydrogen
+WARNING: atom HA32 from GYS will be treated as hydrogen
+WARNING: atom HA31 from GYS will be treated as hydrogen
+WARNING: atom HA31 from GYS will be treated as hydrogen
+WARNING: atom HA32 from GYS will be treated as hydrogen
+WARNING: atom HA31 from GYS will be treated as hydrogen
+SKIPPED H( B 127 GYS HN2 ): B 127 GYS N    bonds- B 126 LEU C    (H bumps)
+SKIPPED H( B 127 GYS HA1 ): B 127 GYS CA1  bonds- B 127 GYS N    (H bumps)
+WARNING: atom HAHA from HID will be treated as hydrogen
+WARNING: atom HAHA from HID will be treated as hydrogen
+WARNING: atom HAHA from HID will be treated as hydrogen
+WARNING: atom HNAI from HID will be treated as hydrogen
+WARNING: atom HNAI from HID will be treated as hydrogen
+WARNING: atom HNAI from HID will be treated as hydrogen
+WARNING: atom HAHA from HID will be treated as hydrogen
+WARNING: atom HAHA from HID will be treated as hydrogen
+WARNING: atom HAHA from HID will be treated as hydrogen
+SKIPPED H( B 140 ARGHH11 ): B 140 ARG NH1  bonds- B  62 SER N    (H bumps)
+WARNING: atom HAHA from HID will be treated as hydrogen
+WARNING: atom HAHA from HID will be treated as hydrogen
+WARNING: atom HAHA from HID will be treated as hydrogen
+WARNING: atom HNAI from HID will be treated as hydrogen
+WARNING: atom HNAI from HID will be treated as hydrogen
+WARNING: atom HNAI from HID will be treated as hydrogen
+WARNING: atom HAHA from HID will be treated as hydrogen
+WARNING: atom HAHA from HID will be treated as hydrogen
+WARNING: atom HAHA from HID will be treated as hydrogen
+WARNING: atom HAHA from HID will be treated as hydrogen
+WARNING: atom HAHA from HID will be treated as hydrogen
+WARNING: atom HAHA from HID will be treated as hydrogen
+WARNING: atom HNAI from HID will be treated as hydrogen
+WARNING: atom HNAI from HID will be treated as hydrogen
+WARNING: atom HNAI from HID will be treated as hydrogen
+WARNING: atom HAHA from HID will be treated as hydrogen
+WARNING: atom HAHA from HID will be treated as hydrogen
+WARNING: atom HAHA from HID will be treated as hydrogen
+WARNING: atom HAHA from HID will be treated as hydrogen
+WARNING: atom HAHA from HID will be treated as hydrogen
+WARNING: atom HAHA from HID will be treated as hydrogen
+WARNING: atom HNAI from HID will be treated as hydrogen
+WARNING: atom HNAI from HID will be treated as hydrogen
+WARNING: atom HNAI from HID will be treated as hydrogen
+WARNING: atom HAHA from HID will be treated as hydrogen
+WARNING: atom HAHA from HID will be treated as hydrogen
+WARNING: atom HAHA from HID will be treated as hydrogen
+WARNING: atom HAHA from HID will be treated as hydrogen
+WARNING: atom HAHA from HID will be treated as hydrogen
+WARNING: atom HAHA from HID will be treated as hydrogen
+WARNING: atom HNAI from HID will be treated as hydrogen
+WARNING: atom HNAI from HID will be treated as hydrogen
+WARNING: atom HNAI from HID will be treated as hydrogen
+WARNING: atom HAHA from HID will be treated as hydrogen
+WARNING: atom HAHA from HID will be treated as hydrogen
+WARNING: atom HAHA from HID will be treated as hydrogen
+WARNING: atom HAHA from HID will be treated as hydrogen
+WARNING: atom HAHA from HID will be treated as hydrogen
+WARNING: atom HAHA from HID will be treated as hydrogen
+WARNING: atom HNAI from HID will be treated as hydrogen
+WARNING: atom HNAI from HID will be treated as hydrogen
+WARNING: atom HNAI from HID will be treated as hydrogen
+WARNING: atom HAHA from HID will be treated as hydrogen
+WARNING: atom HAHA from HID will be treated as hydrogen
+WARNING: atom HAHA from HID will be treated as hydrogen
+ Singles(size 73): A   1 GLY N   : A   2 SER OG  : A   8 ASN     : A  10 TYR OH  
+  : A  12 SER OG  : A  13 THR OG1 : A  14 GLN     : A  15 THR OG1 : A  18 SER OG  
+  : A  22 ASN     : A  25 THR OG1 : B  28 SER OG  : B  30 SER OG  : B  32 SER OG  
+  : B  33 LYS NZ  : B  42 TYR OH  : B  44 ASN     : B  49 THR OG1 : B  56 TYR OH  
+  : B  59 THR OG1 : B  62 SER OG  : B  64 SER OG  : B  65 GLN     : B  71 THR OG1 
+  : B  85 ASN     : B  88 LYS NZ  : B  90 SER OG  : B 100 THR OG1 : B 103 LYS NZ  
+  : B 105 THR OG1 : B 107 LYS NZ  : B 110 SER OG  : B 111 THR OG1 : B 112 THR OG1 
+  : B 114 LYS NZ  : B 124 THR OG1 : B 125 THR OG1 : B 127 GYS OG1 : B 132 SER OG  
+  : B 134 TYR OH  : B 139 LYS NZ  : B 145 LYS NZ  : B 146 SER OG  : B 152 TYR OH  
+  : B 157 THR OG1 : B 159 SER OG  : B 161 LYS NZ  : B 165 LYS NZ  : B 167 LYS NZ  
+  : B 168 THR OG1 : B 173 LYS NZ  : B 178 THR OG1 : B 181 ASN     : B 186 LYS NZ  
+  : B 188 THR OG1 : B 191 LYS NZ  : B 200 LYS NZ  : B 204 ASN     : B 207 SER OG  
+  : B 209 ASN     : B 211 TYR OH  : B 213 THR OG1 : B 216 LYS NZ  : B 217 GLN     
+  : B 218 LYS NZ  : B 219 ASN     : B 222 LYS NZ  : B 224 ASN     : B 226 THR OG1 
+  : B 235 SER OG  : B 242 TYR OH  : B 244 GLN     : B 246 THR OG1 
+ Set 1 (size 2): B 195 ASN     : B 237 GLN     
+ Set 2 (size 2): B 230 ASN     : B 206 ASN     
+ Set 3 (size 2): B 203 TYR OH  : A  19 LYS NZ  
+ Set 4 (size 4): B 129 GLN     : B 243 GLN     : B 154 GLN     : B 245 ASN     
+ Set 5 (size 2): B 166 TYR OH  : B 121 THR OG1 
+ orientation 4: A   1 GLY N   :NH3+   -112: bump=0.000, HB=0.087, total=0.087
+ orientation 1: A   2 SER OG  :   rot  180: bump=0.000, HB=0.000, total=0.000
+ orientation 1: A   8 ASN     :      amide: bump=-0.006, HB=0.000, total=-0.006
+ orientation 1: A  10 TYR OH  :   rot  180: bump=0.000, HB=0.000, total=0.000
+ orientation 1: A  12 SER OG  :   rot  180: bump=0.000, HB=0.000, total=0.000
+ orientation 3: A  13 THR OG1 :   rot  -54: bump=-0.020, HB=0.263, total=0.243
+ orientation 1: A  14 GLN     :      amide: bump=-0.013, HB=0.000, total=-0.013
+ orientation 1: A  15 THR OG1 :   rot  180: bump=0.000, HB=0.000, total=0.000
+ orientation 1: A  18 SER OG  :   rot  180: bump=0.000, HB=0.000, total=0.000
+ orientation 1: A  22 ASN     :      amide: bump=-0.308, HB=0.000, total=-0.308
+ orientation 1: A  25 THR OG1 :   rot  180: bump=0.000, HB=0.000, total=0.000
+ orientation 1: B  28 SER OG  :   rot  180: bump=0.000, HB=0.000, total=0.000
+ orientation 1: B  30 SER OG  :   rot  180: bump=0.000, HB=0.000, total=0.000
+ orientation 1: B  32 SER OG  :   rot  180: bump=0.000, HB=0.000, total=0.000
+ orientation 2: B  33 LYS NZ  :NH3+   -175: bump=0.000, HB=0.000, total=0.000
+ orientation 1: B  42 TYR OH  :   rot  180: bump=0.000, HB=0.000, total=0.000
+ orientation 1: B  44 ASN     :      amide: bump=-0.090, HB=0.000, total=-0.090
+ orientation 1: B  49 THR OG1 :   rot  180: bump=-0.356, HB=0.000, total=-0.356
+ orientation 1: B  56 TYR OH  :   rot  180: bump=0.000, HB=0.000, total=0.000
+ orientation 1: B  59 THR OG1 :   rot  180: bump=-0.264, HB=0.026, total=-0.238
+ orientation 1: B  62 SER OG  :   rot  180: bump=-0.332, HB=0.000, total=-0.332
+ orientation 2: B  64 SER OG  :   rot   23: bump=-0.552, HB=0.914, total=0.362, BADBUMP
+ orientation 1: B  65 GLN     :      amide: bump=0.000, HB=0.000, total=0.000
+ orientation 3: B  71 THR OG1 :   rot  -91: bump=0.000, HB=0.179, total=0.179
+ orientation 1: B  85 ASN     :      amide: bump=-0.189, HB=0.619, total=0.430
+ orientation 1: B  88 LYS NZ  :NH3+    180: bump=0.000, HB=0.000, total=0.000
+ orientation 7: B  90 SER OG  :   rot -123: bump=-1.085, HB=0.966, total=-0.119
+ orientation 2: B 100 THR OG1 :   rot  -80: bump=-0.229, HB=0.558, total=0.328
+ orientation 1: B 103 LYS NZ  :NH3+    180: bump=0.000, HB=0.000, total=0.000
+ orientation 1: B 105 THR OG1 :   rot  180: bump=0.000, HB=0.000, total=0.000
+ orientation 1: B 107 LYS NZ  :NH3+    180: bump=0.000, HB=0.000, total=0.000
+ orientation 1: B 110 SER OG  :   rot  175: bump=-0.719, HB=1.520, total=0.801
+ orientation 1: B 111 THR OG1 :   rot  180: bump=-0.211, HB=0.011, total=-0.199
+ orientation 1: B 112 THR OG1 :   rot  180: bump=-0.142, HB=0.000, total=-0.142
+ orientation 1: B 114 LYS NZ  :NH3+    180: bump=0.000, HB=0.000, total=0.000
+ orientation 1: B 124 THR OG1 :   rot -120: bump=-0.227, HB=0.000, total=-0.227
+ orientation 1: B 125 THR OG1 :   rot  180: bump=0.000, HB=0.000, total=0.000
+ orientation 2: B 127 GYS OG1 :   rot -140: bump=0.000, HB=0.000, total=0.000
+ orientation 2: B 132 SER OG  :   rot   81: bump=0.000, HB=1.059, total=1.059
+ orientation 1: B 134 TYR OH  :   rot  180: bump=-0.294, HB=0.000, total=-0.294
+ orientation 1: B 139 LYS NZ  :NH3+    180: bump=0.000, HB=0.000, total=0.000
+ orientation 1: B 145 LYS NZ  :NH3+   -174: bump=-0.353, HB=0.802, total=0.449
+ orientation 1: B 146 SER OG  :   rot  180: bump=0.000, HB=0.000, total=0.000
+ orientation 1: B 152 TYR OH  :   rot  180: bump=0.000, HB=0.000, total=0.000
+ orientation 1: B 157 THR OG1 :   rot  180: bump=0.000, HB=0.000, total=0.000
+ orientation 1: B 159 SER OG  :   rot  180: bump=0.000, HB=0.000, total=0.000
+ orientation 1: B 161 LYS NZ  :NH3+    180: bump=0.000, HB=0.000, total=0.000
+ orientation 1: B 165 LYS NZ  :NH3+    180: bump=0.000, HB=0.000, total=0.000
+ orientation 1: B 167 LYS NZ  :NH3+    180: bump=0.000, HB=0.000, total=0.000
+ orientation 1: B 168 THR OG1 :   rot  180: bump=-0.281, HB=0.000, total=-0.281
+ orientation 1: B 173 LYS NZ  :NH3+    180: bump=0.000, HB=0.000, total=0.000
+ orientation 1: B 178 THR OG1 :   rot  180: bump=0.000, HB=0.000, total=0.000
+ orientation 1: B 181 ASN     :      amide: bump=-1.783, HB=0.000, total=-1.783
+ orientation 1: B 186 LYS NZ  :NH3+    180: bump=0.000, HB=0.000, total=0.000
+ orientation 1: B 188 THR OG1 :   rot  180: bump=0.000, HB=0.000, total=0.000
+ orientation 1: B 191 LYS NZ  :NH3+    180: bump=0.000, HB=0.000, total=0.000
+ orientation 1: B 200 LYS NZ  :NH3+    180: bump=0.000, HB=0.000, total=0.000
+ orientation 1: B 204 ASN     :      amide: bump=-0.850, HB=0.000, total=-0.850
+ orientation 1: B 207 SER OG  :   rot  180: bump=0.000, HB=0.000, total=0.000
+ orientation 1: B 209 ASN     :      amide: bump=-0.128, HB=0.000, total=-0.128
+ orientation 1: B 211 TYR OH  :   rot  180: bump=0.000, HB=0.000, total=0.000
+ orientation 1: B 213 THR OG1 :   rot  180: bump=0.000, HB=0.000, total=0.000
+ orientation 1: B 216 LYS NZ  :NH3+    180: bump=0.000, HB=0.000, total=0.000
+ orientation 1: B 217 GLN     :      amide: bump=0.000, HB=0.000, total=0.000
+ orientation 1: B 218 LYS NZ  :NH3+    180: bump=0.000, HB=0.000, total=0.000
+ orientation 1: B 219 ASN     :      amide: bump=-0.018, HB=0.000, total=-0.018
+ orientation 1: B 222 LYS NZ  :NH3+    180: bump=0.000, HB=0.000, total=0.000
+ orientation 1: B 224 ASN     :      amide: bump=0.000, HB=0.000, total=0.000
+ orientation 4: B 226 THR OG1 :   rot -106: bump=-0.211, HB=0.920, total=0.709
+ orientation 1: B 235 SER OG  :   rot  180: bump=0.000, HB=0.002, total=0.002
+ orientation 1: B 242 TYR OH  :   rot  180: bump=0.000, HB=0.000, total=0.000
+ orientation 1: B 244 GLN     :      amide: bump=0.000, HB=0.000, total=0.000
+ orientation 1: B 246 THR OG1 :   rot  180: bump=0.000, HB=0.000, total=0.000
+
+ Processing set: B 195 ASN     [2]: B 237 GLN     [2]
+ permutations: 4
+ Computing dot scores
+ Num optimizations problems to be solved for this clique: 4
+ Beginning Optimization
+ Dynamic programming succeeded to fully optimize hypergraph
+ Beginning Optimization
+ Dynamic programming succeeded to fully optimize hypergraph
+ Optimal score following low resolution optimization: 1.059
+ Beginning Optimization
+ Dynamic programming succeeded to fully optimize hypergraph
+ Beginning Optimization
+ Dynamic programming succeeded to fully optimize hypergraph
+ Optimal score following high resolution, local optimization: 1.059
+
+ Processing set: B 230 ASN     [2]: B 206 ASN     [2]
+ permutations: 4
+ Computing dot scores
+ Num optimizations problems to be solved for this clique: 4
+ Beginning Optimization
+ Dynamic programming succeeded to fully optimize hypergraph
+ Beginning Optimization
+ Dynamic programming succeeded to fully optimize hypergraph
+ Optimal score following low resolution optimization: 1.164
+ Beginning Optimization
+ Dynamic programming succeeded to fully optimize hypergraph
+ Beginning Optimization
+ Dynamic programming succeeded to fully optimize hypergraph
+ Optimal score following high resolution, local optimization: 1.164
+
+ Processing set: B 203 TYR OH  [12]: A  19 LYS NZ  [4]
+ permutations: 48
+ Computing dot scores
+ Num optimizations problems to be solved for this clique: 1
+ Beginning Optimization
+ Dynamic programming succeeded to fully optimize hypergraph
+ Optimal score following low resolution optimization: -0.097
+> : -0.097       > : -0.097       > : -0.097       > : -0.097       > : -0.097       > : -0.097       > : -0.097       > : -0.097       > : -0.097       > : -0.097       > : -0.097       > : -0.097       > : -0.097       > : -0.097       > : -0.097       > : -0.097       > : -0.097       > : -0.097       > : -0.097       > : -0.097       > : -0.097       > : -0.097       > : -0.094       > : -0.094       > : -0.092       > : -0.092       > : -0.089       > : -0.089       > : -0.087       > : -0.087       > : -0.085       > : -0.085       > : -0.084       > : -0.084       > : -0.083       > : -0.083       > : -0.083       > : -0.083       > : -0.083       > : -0.083       > : -0.083       > : -0.083       > : -0.083       > : -0.083       > : -0.083       > : -0.083       > : -0.083       > : -0.083       > : -0.083       > : -0.083       > : -0.083       > : -0.083       > : -0.083       > : -0.083       > : -0.083       > : -0.083       > : -0.083       > : -0.083       > : -0.083       > : -0.083       > : -0.083       > : -0.083       > : -0.083       > : -0.083       > : -0.083       > : -0.083       > : -0.083       > : -0.083       > : -0.083       > : -0.083       > : -0.083       > : -0.083       > : -0.083       > : -0.083       > : -0.083       > : -0.083       > : -0.083       > : -0.083       > : -0.083       > : -0.083       
+ Optimal score following high resolution, local optimization: -0.083
+
+ Processing set: B 129 GLN     [2]: B 243 GLN     [2]: B 154 GLN     [2]
+  : B 245 ASN     [2]
+ permutations: 16
+ Computing dot scores
+ Num optimizations problems to be solved for this clique: 6
+ Beginning Optimization
+ Dynamic programming succeeded to fully optimize hypergraph
+ Beginning Optimization
+ Dynamic programming succeeded to fully optimize hypergraph
+ Optimal score following low resolution optimization: -6.977
+ Beginning Optimization
+ Dynamic programming succeeded to fully optimize hypergraph
+ Beginning Optimization
+ Dynamic programming succeeded to fully optimize hypergraph
+ Beginning Optimization
+ Dynamic programming succeeded to fully optimize hypergraph
+ Beginning Optimization
+ Dynamic programming succeeded to fully optimize hypergraph
+ Optimal score following high resolution, local optimization: -6.977
+
+ Processing set: B 166 TYR OH  [11]: B 121 THR OG1 [6]
+ permutations: 66
+ Computing dot scores
+ Num optimizations problems to be solved for this clique: 1
+ Beginning Optimization
+ Dynamic programming succeeded to fully optimize hypergraph
+ Optimal score following low resolution optimization: -0.020
+> : -0.020       > : -0.020       > : -0.020       > : -0.020       > : -0.020       > : -0.020       > : -0.020       > : -0.020       > : -0.020       > : -0.020       > : -0.020       > : -0.020       > : -0.020       > : -0.020       > : -0.020       > : -0.020       > : -0.020       > : -0.020       > : -0.020       > : -0.020       > : -0.020       > : -0.020       > : 0.003       > : 0.036       > : 0.036       > : 0.036       > : 0.036       > : 0.036       > : 0.036       > : 0.036       > : 0.036       > : 0.036       > : 0.036       > : 0.036       > : 0.036       > : 0.036       > : 0.066       > : 0.066       > : 0.066       > : 0.066       
+ Optimal score following high resolution, local optimization: 0.066
+Found 12 hydrogens (12 hets)
+Standardized 12 hydrogens (12 hets)
+Added 1777 hydrogens (0 hets)
+Removed 1 hydrogens (1 hets)
+Adjusted 49 group(s)
+If you publish work which uses reduce, please cite:
+Word, et. al. (1999) J. Mol. Biol. 285, 1735-1747.
+For more information see http://kinemage.biochem.duke.edu

@@ -1,0 +1,182 @@
+GFP trans protonated by Yasmin
+MASS
+n  14.010        0.530
+hn 1.008         0.161
+c3 12.010        0.878
+h1 1.008         0.135
+oh 16.000        0.465
+ho 1.008         0.135
+cc 12.010        0.360
+nd 14.010        0.530
+c  12.010        0.616
+o  16.000        0.434
+cd 12.010        0.360
+ce 12.010        0.360
+ha 1.008         0.135
+ca 12.010        0.360
+
+BOND
+hn-n   527.30   1.013
+c3-n   263.80   1.462
+c3-h1  375.90   1.097
+c3-c3  232.50   1.538
+c3-cc  262.60   1.502
+c3-oh  293.40   1.423
+ho-oh  563.50   0.973
+cc-nd  450.70   1.317
+cc-n   353.80   1.381
+cd-nd  369.10   1.369
+c -n   356.20   1.379
+c -o   652.60   1.218
+c -cd  295.40   1.468
+cd-ce  427.70   1.366
+ce-ha  391.40   1.088
+ca-ce  286.50   1.476
+ca-ca  378.60   1.398
+ca-ha  395.70   1.086
+ca-o   606.50   1.236
+c -c3  243.20   1.524
+C -n   356.20   1.379   added by Yasmin
+c -N   356.20   1.379   added by Yasmin
+
+ANGLE
+h1-c3-n    61.500     108.880
+c3-c3-n    83.200     111.610
+cc-c3-n    84.200     111.760
+c3-n -hn   46.100     117.680
+c3-c3-h1   46.900     109.560
+c3-c3-oh   84.600     110.190
+c3-cc-nd   83.900     122.410
+c3-cc-n    83.600     119.190
+cc-c3-h1   47.900     109.640
+c3-c3-cc   65.500     111.930
+c3-oh-ho   49.000     107.260
+h1-c3-h1   38.800     108.460
+h1-c3-oh   62.500     110.260
+cc-nd-cd   73.900     105.490
+c -n -cc   66.600     123.270
+c3-n -cc   65.200     120.850
+n -cc-nd  110.300     123.000
+c -cd-nd   83.500     123.320
+ce-cd-nd   86.600     123.980
+n -c -o   113.800     123.050
+cd-c -n    87.100     112.700
+c -c3-n    84.500     109.060
+c -n -c3   65.300     120.690
+c -cd-ce   65.400     121.570   same as c -cd-cf, penalty score=  0.8
+cd-c -o    86.700     123.930
+cd-ce-ha   50.600     114.950
+ca-ce-cd   64.600     130.880
+ca-ca-ce   66.600     120.820
+ca-ce-ha   47.400     115.130
+ca-ca-ha   48.700     119.880
+ca-ca-ca   68.800     120.020
+ca-ca-o    89.500     123.260
+c3-c -o    84.600     123.200
+c -c3-h1   47.500     108.220
+ O-C -n    50.000     107.100  By Yasmin based on structure and frcmod.ff19SB XC-2C-SH prm
+ C-n -hn   48.700     111.900  By Yasmin based on structure and c -n -hn
+ C-n -c3   65.300     136.000  By Yasmin based on structure and c -n -c3
+XC-C -n    84.300     118.200  By Yasmin based on structure and c3-c -n
+ o-c -N    50.000     108.600  By Yasmin based on structure and frcmod.ff19SB XC-2C-SH prm
+ c-N -H    48.700     112.000  By Yasmin based on structure and c -n -hn
+ c-N -XC   65.300     136.000  By Yasmin based on structure and c -n -c3
+c3-c -N    84.300     131.200  By Yasmin based on structure and c3-c -n 
+
+DIHE
+h1-c3-c3-n    9    1.400         0.000           3.000
+n -c3-c3-oh   1    0.101         0.000           3.000
+n -c3-cc-nd   6    0.000         0.000           3.000
+n -c3-cc-n    6    0.000         0.000           3.000
+h1-c3-n -hn   6    0.000         0.000           2.000
+c3-c3-n -hn   6    0.000         0.000           2.000
+cc-c3-n -hn   6    0.000         0.000           2.000
+c3-c3-oh-ho   1    0.000         0.000           3.000
+c3-cc-nd-cd   2    9.500       180.000           2.000
+c3-cc-n -c    4    6.600       180.000           2.000
+c3-cc-n -c3   4    6.600       180.000           2.000
+h1-c3-c3-h1   9    1.400         0.000           3.000
+h1-c3-c3-oh   1    0.000         0.000          -3.000
+h1-c3-c3-oh   1    0.250         0.000           1.000
+h1-c3-cc-nd   6    0.000         0.000           3.000
+h1-c3-cc-n    6    0.000         0.000           3.000
+c3-c3-cc-nd   6    0.000         0.000           3.000
+c3-c3-cc-n    6    0.000         0.000           3.000
+h1-c3-oh-ho   1    0.113         0.000           3.000
+cc-c3-c3-h1   9    1.400         0.000           3.000
+cc-c3-c3-oh   9    1.400         0.000           3.000
+c -cd-nd-cc   2    9.500       180.000           2.000
+ce-cd-nd-cc   2    9.500       180.000           2.000
+o -c -n -cc   4   10.000       180.000           2.000
+cd-c -n -cc   4   10.000       180.000           2.000
+h1-c3-n -cc   6    0.000         0.000           2.000
+c -c3-n -cc   6    0.000         0.000           2.000
+nd-cc-n -c    4    6.600       180.000           2.000
+nd-cc-n -c3   4    6.600       180.000           2.000
+nd-cd-ce-ha   4   16.000       180.000           2.000      same as X -cc-cd-X , penalty score=136.0
+nd-cd-ce-ca   4   16.000       180.000           2.000      same as X -cc-cd-X , penalty score=136.0
+n -cc-nd-cd   2    9.500       180.000           2.000
+n -c -cd-nd   4   11.500       180.000           2.000
+n -c -cd-ce   4   11.500       180.000           2.000
+o -c -c3-n    6    0.000       180.000           2.000
+h1-c3-n -c    1    0.000       180.000           2.000
+c -c3-n -c    1    0.390       180.000          -2.000
+c -c3-n -c    1    0.640         0.000           1.000
+c -cd-ce-ha   4   16.000       180.000           2.000      same as X -cc-cd-X , penalty score=136.0
+c -cd-ce-ca   1    0.500       180.000           2.000      same as c2-ce-ce-c2, penalty score=336.0
+o -c -cd-nd   4   11.500       180.000           2.000
+o -c -cd-ce   4   11.500       180.000           2.000
+ca-ca-ce-cd   1    0.505       180.000           2.000      same as c2-ce-ca-ca, penalty score= 87.0
+ce-ca-ca-ha   4   14.500       180.000           2.000
+ca-ca-ca-ce   4   14.500       180.000           2.000
+ca-ca-ce-ha   4    2.800       180.000           2.000      same as X -c2-ca-X , penalty score=237.0
+ca-ca-ca-ha   4   14.500       180.000           2.000
+ca-ca-ca-ca   4   14.500       180.000           2.000
+ca-ca-ca-o    4   14.500       180.000           2.000
+ha-ca-ca-ha   4   14.500       180.000           2.000
+ha-ca-ca-o    4   14.500       180.000           2.000
+o -c -n -c3   4   10.000       180.000           2.000
+cd-c -n -c3   4   10.000       180.000           2.000
+o -c -c3-h1   1    0.800         0.000          -1.000
+o -c -c3-h1   1    0.080       180.000           3.000
+O -C -n -hn   1    2.500       180.000          -2.000    By Yasmin, same as o -c -n -hn
+O -C -n -hn   1    2.000         0.000           1.000    By Yasmin, same as o -c -n -hn
+o -c -N -H    1    2.500       180.000          -2.000    By Yasmin, same as o -c -n -hn
+o -c -N -H    1    2.000         0.000           1.000    By Yasmin, same as o -c -n -hn
+O -C -n -c3   4   10.000       180.000           2.000    By Yasmin, same as o -c -n -c3
+o -c -N -XC   4   10.000       180.000           2.000    By Yasmin, same as o -c -n -c3
+XC-C -n -hn   4   10.000       180.000           2.000    By Yasmin, same as c3-c -n -hn
+c3-c -N -H    4   10.000       180.000           2.000    By Yasmin, same as c3-c -n -hn
+XC-C -n -c3   1    0.260       180.000          -2.000    By Yasmin, same as c3-c -n -c3
+XC-C -n -c3   1    0.500         0.000           1.000    By Yasmin, same as c3-c -n -c3
+c3-c -N -XC   1    0.260       180.000          -2.000    By Yasmin, same as c3-c -n -c3
+c3-c -N -XC   1    0.500         0.000           1.000    By Yasmin, same as c3-c -n -c3
+
+IMPROPER
+c3-n -cc-nd         1.1          180.0         2.0          Using the default value
+c -c3-n -cc         1.1          180.0         2.0          Using the default value
+cd-n -c -o         10.5          180.0         2.0          Using general improper torsional angle  X- X- c- o, penalty score=  6.0)
+c -ce-cd-nd         1.1          180.0         2.0          Using the default value
+ca-cd-ce-ha         1.1          180.0         2.0          Same as X -X -ca-ha, penalty score= 46.8 (use general term))
+ca-ca-ca-ce         1.1          180.0         2.0          Using the default value
+ca-ca-ca-ha         1.1          180.0         2.0          Using general improper torsional angle  X- X-ca-ha, penalty score=  6.0)
+ca-ca-ca-o          1.1          180.0         2.0          Using the default value
+
+NONBON
+  n           1.7852  0.1636
+  hn          0.6210  0.0100
+  c3          1.9069  0.1078
+  h1          1.3593  0.0208
+  oh          1.8200  0.0930
+  ho          0.3019  0.0047
+  cc          1.8606  0.0988
+  nd          1.8993  0.0941
+  c           1.8606  0.0988
+  o           1.7107  0.1463
+  cd          1.8606  0.0988
+  ce          1.8606  0.0988
+  ha          1.4735  0.0161
+  ca          1.8606  0.0988
+
+
+
